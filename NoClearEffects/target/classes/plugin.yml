@@ -1,0 +1,6 @@
+name: NoClearEffects
+version: '1.0'
+main: eu.regret.nce.Main
+api-version: '1.16'
+
+authors: [t.me/regretover]
